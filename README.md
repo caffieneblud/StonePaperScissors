@@ -43,7 +43,6 @@ Navigate to the project folder
 Run the file
 
 
-## Example (Python)python main.py
 ## Future Improvements
 
 
