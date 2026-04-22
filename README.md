@@ -1,2 +1,2 @@
 # StonePaperScissors
-simple game of stone, paper and scissors
+***simple game of stone, paper and scissors***
