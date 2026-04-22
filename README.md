@@ -1,6 +1,7 @@
-#🪨 Stone Paper Scissors Game
+# Stone Paper Scissors Game
 *A simple implementation of the classic Stone-Paper-Scissors game where a player competes against the computer. This project is designed for beginners to understand basic programming concepts like condition handling, randomization, and user input.*
-##🎮 Features
+
+## Features
 
 
 Play against the computer
@@ -30,7 +31,7 @@ Paper beats Stone
 **python**
 
 
-##▶️ How to Run
+## How to Run
 
 
 Clone the repository
@@ -43,7 +44,7 @@ Run the file
 
 
 ## Example (Python)python main.py
-📌 Future Improvements
+## Future Improvements
 
 
 Add a graphical user interface (GUI)
